@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
+header: Deep Non-local Kalman Network for Video Compression Artifact Reduction
+  caption: "IEEE Transactions on Image Processing (TIP)"
   image: ""
 ---
